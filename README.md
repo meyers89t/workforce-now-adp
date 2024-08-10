@@ -33,7 +33,7 @@ To get started with workforce now adp, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/workforce-now-adp.git
+   git clone https://github.com/meyers89t/workforce-now-adp.git
 2. **Navigate to the Project Directory**:
    ```bash
    cd workforce-now-adp
