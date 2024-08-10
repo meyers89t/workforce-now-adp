@@ -1,0 +1,23 @@
+```json
+{
+  "name": "workforce-now-adp",
+  "version": "1.0.0",
+  "description": "An innovative project management platform for enhancing team collaboration and workflow.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "devDependencies": {
+    "react-test-renderer": "^18.0.0"
+  },
+  "author": "Terry Meyers",
+  "license": "MIT"
+}
