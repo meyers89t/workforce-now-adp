@@ -19,10 +19,9 @@ Users can create tasks, set deadlines, and monitor progress through customizable
 - **Git**: For version control.
 
 ## Author
-- **Name**: Terry Meyers  
+- **Name**: Terry Meyers
 - **Email**: meyers.terry89@outlook.com
 - **Website**: workforce now adp
-
 - Terry Meyers is a seasoned software engineer with a strong background in developing project management solutions. With expertise in modern web technologies and a dedication to creating efficient, user-friendly applications.
 - Terry has a proven track record of delivering high-quality software. Known for a collaborative approach and a commitment to excellence.
 - Terry is passionate about improving team workflows and driving innovation in software development.
